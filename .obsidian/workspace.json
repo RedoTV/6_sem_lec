@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 352.5
   },
   "right": {
     "id": "e201e4a52b400116",
@@ -183,7 +183,7 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "ff832fd5ed4c5db6",
+  "active": "1e48cf36931c254f",
   "lastOpenFiles": [
     "Web-разработка/Лекция 5.md",
     "Web-разработка/Лекция 6.md",
